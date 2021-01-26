@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/MyReactPortfolio/static/css/main.a522c6ff.chunk.css",
+    "main.js": "/MyReactPortfolio/static/js/main.d403fea8.chunk.js",
+    "main.js.map": "/MyReactPortfolio/static/js/main.d403fea8.chunk.js.map",
+    "runtime-main.js": "/MyReactPortfolio/static/js/runtime-main.4b758fc3.js",
+    "runtime-main.js.map": "/MyReactPortfolio/static/js/runtime-main.4b758fc3.js.map",
+    "static/js/2.26cb1ed4.chunk.js": "/MyReactPortfolio/static/js/2.26cb1ed4.chunk.js",
+    "static/js/2.26cb1ed4.chunk.js.map": "/MyReactPortfolio/static/js/2.26cb1ed4.chunk.js.map",
+    "index.html": "/MyReactPortfolio/index.html",
+    "static/css/main.a522c6ff.chunk.css.map": "/MyReactPortfolio/static/css/main.a522c6ff.chunk.css.map",
+    "static/js/2.26cb1ed4.chunk.js.LICENSE.txt": "/MyReactPortfolio/static/js/2.26cb1ed4.chunk.js.LICENSE.txt",
+    "static/media/slide.3e3feb83.webp": "/MyReactPortfolio/static/media/slide.3e3feb83.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b758fc3.js",
+    "static/js/2.26cb1ed4.chunk.js",
+    "static/css/main.a522c6ff.chunk.css",
+    "static/js/main.d403fea8.chunk.js"
+  ]
+}
