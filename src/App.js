@@ -4,9 +4,11 @@ import MyNavbar from "./components/NavBar/Navbar";
 import TitleMessage from "./components/TitleMessage/TitleMessage";
 import Fade from "react-reveal/Fade";
 import BgImg from "./assets/img/parallax/background.webp";
+import Slide from "react-reveal/Slide";
 import Container from "react-bootstrap/Container";
 import { Parallax } from "react-parallax";
 import About from "./pages/About/About";
+import Skills from "./pages/Skills/Skills";
 
 function App() {
   return (
@@ -25,6 +27,14 @@ function App() {
             </Container>
           </div>
         </Parallax>
+
+        <Container className="container-box rounded">
+          <Slide bottom duration={500}>
+            <hr />
+            <Skills />
+          </Slide>
+        </Container>
+        <div></div>
       </div>
     </div>
   );
