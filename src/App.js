@@ -16,7 +16,7 @@ function App() {
       <MyNavbar />
 
       <div>
-        <Parallax blur={{ min: -30, max: 30 }} bgImage={BgImg} bgImageAlt="" strength={-200}>
+        <Parallax bgImage={BgImg} bgImageAlt="profile">
           <div>
             <Container className="container-box rounded">
               <Fade duration={500}>
