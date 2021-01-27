@@ -10,6 +10,7 @@ import { Parallax } from "react-parallax";
 import About from "./pages/About/About";
 import Skills from "./pages/Skills/Skills";
 import Experience from "./pages/Experience/Experience";
+import ProjectTimeline from "./components/ProjectTimeline/ProjectTimeline";
 
 function App() {
   return (
@@ -41,6 +42,13 @@ function App() {
             <hr />
             <Experience />
           </Fade>
+        </Container>
+
+        <Container className="container-box rounded">
+          <Slide bottom duration={500}>
+            <hr />
+            <ProjectTimeline />
+          </Slide>
         </Container>
       </div>
     </div>
