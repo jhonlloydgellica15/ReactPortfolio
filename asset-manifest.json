@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/ReactPortfolio/static/css/main.b8e32731.chunk.css",
-    "main.js": "/ReactPortfolio/static/js/main.f4854c7c.chunk.js",
-    "main.js.map": "/ReactPortfolio/static/js/main.f4854c7c.chunk.js.map",
+    "main.css": "/ReactPortfolio/static/css/main.d781e524.chunk.css",
+    "main.js": "/ReactPortfolio/static/js/main.1971ef36.chunk.js",
+    "main.js.map": "/ReactPortfolio/static/js/main.1971ef36.chunk.js.map",
     "runtime-main.js": "/ReactPortfolio/static/js/runtime-main.97a608d1.js",
     "runtime-main.js.map": "/ReactPortfolio/static/js/runtime-main.97a608d1.js.map",
-    "static/js/2.a9da1aa0.chunk.js": "/ReactPortfolio/static/js/2.a9da1aa0.chunk.js",
-    "static/js/2.a9da1aa0.chunk.js.map": "/ReactPortfolio/static/js/2.a9da1aa0.chunk.js.map",
+    "static/js/2.5af6bd1c.chunk.js": "/ReactPortfolio/static/js/2.5af6bd1c.chunk.js",
+    "static/js/2.5af6bd1c.chunk.js.map": "/ReactPortfolio/static/js/2.5af6bd1c.chunk.js.map",
     "index.html": "/ReactPortfolio/index.html",
-    "static/css/main.b8e32731.chunk.css.map": "/ReactPortfolio/static/css/main.b8e32731.chunk.css.map",
-    "static/js/2.a9da1aa0.chunk.js.LICENSE.txt": "/ReactPortfolio/static/js/2.a9da1aa0.chunk.js.LICENSE.txt",
+    "static/css/main.d781e524.chunk.css.map": "/ReactPortfolio/static/css/main.d781e524.chunk.css.map",
+    "static/js/2.5af6bd1c.chunk.js.LICENSE.txt": "/ReactPortfolio/static/js/2.5af6bd1c.chunk.js.LICENSE.txt",
+    "static/media/React_ToDo_List.1767548b.webp": "/ReactPortfolio/static/media/React_ToDo_List.1767548b.webp",
     "static/media/background.f6814621.webp": "/ReactPortfolio/static/media/background.f6814621.webp",
     "static/media/bootstrap-4.997c463d.svg": "/ReactPortfolio/static/media/bootstrap-4.997c463d.svg",
     "static/media/css3.8fba365c.svg": "/ReactPortfolio/static/media/css3.8fba365c.svg",
@@ -25,6 +26,7 @@
     "static/media/javascript.ba40d6a9.svg": "/ReactPortfolio/static/media/javascript.ba40d6a9.svg",
     "static/media/logo.922ad8de.webp": "/ReactPortfolio/static/media/logo.922ad8de.webp",
     "static/media/material-ui-1.fd510ed8.svg": "/ReactPortfolio/static/media/material-ui-1.fd510ed8.svg",
+    "static/media/mern_tip_calc.4a1b8f7e.webp": "/ReactPortfolio/static/media/mern_tip_calc.4a1b8f7e.webp",
     "static/media/mongodb.d89a6eeb.svg": "/ReactPortfolio/static/media/mongodb.d89a6eeb.svg",
     "static/media/mssql.18f84630.svg": "/ReactPortfolio/static/media/mssql.18f84630.svg",
     "static/media/nodejs.52cbf9a8.svg": "/ReactPortfolio/static/media/nodejs.52cbf9a8.svg",
@@ -42,8 +44,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.97a608d1.js",
-    "static/js/2.a9da1aa0.chunk.js",
-    "static/css/main.b8e32731.chunk.css",
-    "static/js/main.f4854c7c.chunk.js"
+    "static/js/2.5af6bd1c.chunk.js",
+    "static/css/main.d781e524.chunk.css",
+    "static/js/main.1971ef36.chunk.js"
   ]
 }
