@@ -1,6 +1,6 @@
 import "./App.css";
-import Particles from "react-particles-js";
-import { particlesOptions } from "./particlesOptions";
+// import Particles from "react-particles-js";
+// import { particlesOptions } from "./particlesOptions";
 import MyCarousel from "./components/Carousel/MyCarousel";
 import MyNavbar from "./components/NavBar/Navbar";
 import TitleMessage from "./components/TitleMessage/TitleMessage";
@@ -22,7 +22,7 @@ function App() {
       <MyCarousel />
       <TitleMessage />
       <MyNavbar />
-      <Particles className="particles particles-box" params={particlesOptions} />
+      {/* <Particles className="particles particles-box" params={particlesOptions} /> */}
       <div>
         <Parallax bgImage={BgImg} bgImageAlt="profile">
           <div>
