@@ -1,4 +1,6 @@
 import "./App.css";
+import Particles from "react-particles-js";
+import { particlesOptions } from "./particlesOptions";
 import MyCarousel from "./components/Carousel/MyCarousel";
 import MyNavbar from "./components/NavBar/Navbar";
 import TitleMessage from "./components/TitleMessage/TitleMessage";
@@ -11,14 +13,16 @@ import About from "./pages/About/About";
 import Skills from "./pages/Skills/Skills";
 import Experience from "./pages/Experience/Experience";
 import ProjectTimeline from "./components/ProjectTimeline/ProjectTimeline";
+import Contact from "./pages/ContactForm/Contact";
+import Footer from "./components/Footer/Footer";
 
 function App() {
   return (
-    <div className="App">
+    <div className="App" style={{ position: "relative" }}>
       <MyCarousel />
       <TitleMessage />
       <MyNavbar />
-
+      <Particles className="particles particles-box" params={particlesOptions} />
       <div>
         <Parallax bgImage={BgImg} bgImageAlt="profile">
           <div>
@@ -30,9 +34,9 @@ function App() {
           </div>
         </Parallax>
 
+        <hr />
         <Container className="container-box rounded">
           <Slide bottom duration={500}>
-            <hr />
             <Skills />
           </Slide>
         </Container>
@@ -50,7 +54,16 @@ function App() {
             <ProjectTimeline />
           </Slide>
         </Container>
+
+        <Container className="container-box rounded">
+          <Fade duration={500}>
+            <hr />
+            <Contact />
+          </Fade>
+        </Container>
       </div>
+      <hr />
+      <Footer />
     </div>
   );
 }

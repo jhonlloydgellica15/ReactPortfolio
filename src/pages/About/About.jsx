@@ -21,7 +21,7 @@ const About = () => {
             </Col>
             <Col xs={12} md={6}>
               <Row className=" align-items-start p-2 my-details rounded">
-                Hello there! I am <strong>&nbsp;Jhon Lloyd Gellica</strong>A passionate programmer and a Learner, born and brought up in the Philippines. I am a Frontend Web Developer with the
+                Hello there! I am <strong>&nbsp;Jhon Lloyd Gellica</strong>A passionate programmer and a Learner, born in the City of Davao Philippines. I am a Frontend Web Developer with the
                 following tech stacks Html:5, Css3, Javascript(es6), Bootstrap, PhP, ReactJs, MySql. In 2020, I successfully completed my Bachelor Degree, 'Bachelor of Science in Information
                 Technology' at Holy Cross of Davao College. <br /> I'm a Dedicated, Hardworking, Detail Oriented and Passionate. Along with that, I also like building practice softwares or
                 applications like augmented reality. I love learning about new technologies, what bugs or errors are they encountered and how can I use them to build a better software.
