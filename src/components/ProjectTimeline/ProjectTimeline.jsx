@@ -1,19 +1,20 @@
 import { Timeline, Events, UrlButton, ImageEvent } from "@merc/react-timeline";
 
-import L_ReactToDoList from "../../assets/img/projects/React_ToDo_List.webp";
-import L_MernTipCalc from "../../assets/img/projects/mern_tip_calc.webp";
+import L_Histaria from "../../assets/img/projects/histaria.webp";
+import L_Potential from "../../assets/img/projects/potential.webp";
 
 import Accordion from "react-bootstrap/Accordion";
 import Card from "react-bootstrap/Card";
 import Image from "react-bootstrap/Image";
 
-import L_REACT from "../../assets/img/skills/react.svg";
-import L_NODE_JS from "../../assets/img/skills/nodejs.svg";
-import L_EXPRESS from "../../assets/img/skills/express.svg";
-import L_MONGODB from "../../assets/img/skills/mongodb.svg";
-import L_HTML5 from "../../assets/img/skills/html-5.svg";
-import L_CSS3 from "../../assets/img/skills/css3.svg";
-import L_MATERIALUI from "../../assets/img/skills/material-ui-1.svg";
+import L_AR from "../../assets/img/skills/easyar.webp";
+import L_UNITY from "../../assets/img/skills/unity-technologies-logo.svg";
+import L_CSHARP from "../../assets/img/skills/c--4.svg";
+import L_ANDROID from "../../assets/img/skills/android.svg";
+import L_SQL from "../../assets/img/skills/mssql.svg";
+import L_BUNIFU from "../../assets/img/skills/bunifu.webp";
+import L_PS from "../../assets/img/skills/photoshop-cc.svg";
+import L_ILLUSTRATOR from "../../assets/img/skills/adobe-illustrator-cc.svg";
 
 import "./ProjectTimeline.css";
 
@@ -23,7 +24,7 @@ const ProjectTimeline = () => {
       <h1 className="pt-3 text-center font-details-b pb-3">PROJECTS</h1>;
       <Timeline>
         <Events>
-          <ImageEvent date="01/10/2020" className="text-center" text="React ToDo App" src={L_ReactToDoList} alt="React ToDo App">
+          <ImageEvent date="DECEMBER 2017" className="text-center" text="Potential Examination System" src={L_Potential} alt="Potential Examination System">
             <div className="d-flex justify-content-between flex-column mt-1">
               <div>
                 <Accordion>
@@ -34,35 +35,42 @@ const ProjectTimeline = () => {
 
                     <Accordion.Collapse eventKey="0" className="text-left">
                       <Card.Body>
-                        <strong>Description:</strong> This is a Todo App created with React and Material UI that keeps a track of your Todos
+                        <strong>Description:</strong> Mini Examination System for my subject (Software Development) project. Developed for students and teachers examination mini system.
                         <hr />
                         <strong>Features:</strong>
                         <ul className="list-styles pt-1">
-                          <li>Keeps track of your Todos</li>
-                          <li>Powered by React and Material UI</li>
-                          <li>Respoisive Design</li>
+                          <li>CRUD</li>
+                          <li>The teachers and students can register account</li>
+                          <li>The teacher can create quiz</li>
+                          <li>The student can take quiz</li>
+                          <li>Student and Teacher Portal</li>
                         </ul>
                         <hr />
                         <strong>Tech used:</strong>
                         <ul>
                           <li>
                             <span className="p-2">
-                              <Image src={L_HTML5} alt="HTML 5" rounded className="image-style m-1"></Image> HTML5
+                              <Image src={L_CSHARP} alt="CSHARP" rounded className="image-style1 m-1"></Image> C#
                             </span>
                           </li>
                           <li>
                             <span className="p-2">
-                              <Image src={L_CSS3} alt="CSS 3" rounded className="image-style m-1"></Image> CSS3
+                              <Image src={L_SQL} alt="MS-SQL" rounded className="image-style1 m-1"></Image> MS-Sql
                             </span>
                           </li>
                           <li>
                             <span className="p-2">
-                              <Image src={L_REACT} alt="React" rounded className="image-style1 m-1"></Image> React
+                              <Image src={L_BUNIFU} alt="Bunifu" rounded className="image-style1 m-1"></Image> Bunifu
                             </span>
                           </li>
                           <li>
                             <span className="p-2">
-                              <Image src={L_MATERIALUI} alt="Material-UI" rounded className="image-style1 m-1"></Image> Material-UI
+                              <Image src={L_PS} alt="Photoshop" rounded className="image-style1 m-1"></Image> Photoshop
+                            </span>
+                          </li>
+                          <li>
+                            <span className="p-2">
+                              <Image src={L_ILLUSTRATOR} alt="Illustrator" rounded className="image-style1 m-1"></Image> Illustrator
                             </span>
                           </li>
                         </ul>
@@ -71,20 +79,15 @@ const ProjectTimeline = () => {
                   </Card>
                 </Accordion>
               </div>
-              <div className="d-flex justify-content-between flex-nowrap text-center">
-                <UrlButton href="https://akjha96.github.io/Todo-List-React/" target="_blank">
-                  SEE LIVE
-                </UrlButton>
-                <UrlButton href="https://github.com/akjha96/Todo-List-React" target="_blank">
-                  SOURCE CODE
-                </UrlButton>
-                <UrlButton href="https://www.linkedin.com/posts/anand-kumar-jha-745798a4_react-materialui-fun-activity-6716765686963826688-GIpZ" target="_blank">
+              <div className="">
+                <UrlButton href="https://youtu.be/9FlkdTm5nRU" target="_blank">
                   WATCH VIDEO
                 </UrlButton>
               </div>
             </div>
           </ImageEvent>
-          <ImageEvent date="16/09/2020" className="text-center" text="MERN Tip Calculator" src={L_MernTipCalc} alt="MERN Tip Calculator">
+
+          <ImageEvent date="MARCH 2020" className="text-center" text="HistARia" src={L_Histaria} alt="HistARia">
             <div className="d-flex justify-content-between flex-column mt-1">
               <div>
                 <Accordion>
@@ -95,40 +98,36 @@ const ProjectTimeline = () => {
 
                     <Accordion.Collapse eventKey="0" className="text-left">
                       <Card.Body>
-                        <strong>Description:</strong> This app calculates Tip for the amount entered and percentage of tip to be given. It uses MERN stack build to acomplish the same.
+                        <strong>Description:</strong> HistARia is an augmented reality app for history books. When you scan the image on our ar sample book it plays background video about that image.
                         <hr />
                         <strong>Features:</strong>
                         <ul className="list-styles pt-1">
-                          <li>Enter amount upto your desire</li>
-                          <li>Real-time API calls with Backend features</li>
-                          <li>Styled with Material-UI</li>
+                          <li>The video will stay after tapping the fullscreen</li>
+                          <li>Can play video when image target is on marker</li>
+                          <li>Can fetch videos from cloud storage</li>
+                          <li>Scrub controls(Play, Pause, Forward, fullscreen)</li>
                         </ul>
                         <hr />
                         <strong>Tech used:</strong>
                         <ul>
                           <li>
                             <span className="p-2">
-                              <Image src={L_REACT} alt="React" rounded className="image-style1 m-1"></Image> React
+                              <Image src={L_AR} alt="Easy Ar" rounded className="image-style m-1"></Image> Easy AR
                             </span>
                           </li>
                           <li>
                             <span className="p-2">
-                              <Image src={L_NODE_JS} alt="Node.js" rounded className="image-style1 m-1"></Image> Node.js
+                              <Image src={L_UNITY} alt="UNITY" rounded className="image-style m-1"></Image> Unity
                             </span>
                           </li>
                           <li>
                             <span className="p-2">
-                              <Image src={L_EXPRESS} alt="Express" rounded className="image-style1 m-1"></Image> Express
+                              <Image src={L_CSHARP} alt="Csarp" rounded className="image-style1 m-1"></Image> C#
                             </span>
                           </li>
                           <li>
                             <span className="p-2">
-                              <Image src={L_MONGODB} alt="MongoDB" rounded className="image-style1 m-1"></Image> MongoDB
-                            </span>
-                          </li>
-                          <li>
-                            <span className="p-2">
-                              <Image src={L_MATERIALUI} alt="Material-UI" rounded className="image-style1 m-1"></Image> Material-UI
+                              <Image src={L_ANDROID} alt="Android" rounded className="image-style1 m-1"></Image> Android
                             </span>
                           </li>
                         </ul>
@@ -137,11 +136,8 @@ const ProjectTimeline = () => {
                   </Card>
                 </Accordion>
               </div>
-              <div className="d-flex justify-content-between flex-nowrap text-center">
-                <UrlButton href="https://github.com/akjha96/MernTipCaculator-FrontEnd" target="_blank">
-                  SOURCE CODE
-                </UrlButton>
-                <UrlButton href="https://www.linkedin.com/posts/anand-kumar-jha-745798a4_react-nodejs-expressjs-activity-6712281977107603456-oH6t" target="_blank">
+              <div className=" text-center">
+                <UrlButton href="https://youtu.be/wflT7L6oMYo" target="_blank">
                   WATCH VIDEO
                 </UrlButton>
               </div>
