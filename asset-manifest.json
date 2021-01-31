@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ReactPortfolio/static/css/main.4f965575.chunk.css",
-    "main.js": "/ReactPortfolio/static/js/main.22d2e330.chunk.js",
-    "main.js.map": "/ReactPortfolio/static/js/main.22d2e330.chunk.js.map",
+    "main.js": "/ReactPortfolio/static/js/main.b7843f74.chunk.js",
+    "main.js.map": "/ReactPortfolio/static/js/main.b7843f74.chunk.js.map",
     "runtime-main.js": "/ReactPortfolio/static/js/runtime-main.97a608d1.js",
     "runtime-main.js.map": "/ReactPortfolio/static/js/runtime-main.97a608d1.js.map",
     "static/js/2.b85d382a.chunk.js": "/ReactPortfolio/static/js/2.b85d382a.chunk.js",
@@ -34,7 +34,7 @@
     "static/media/react-bootstrap.534ba574.svg": "/ReactPortfolio/static/media/react-bootstrap.534ba574.svg",
     "static/media/react-router.a87b7227.svg": "/ReactPortfolio/static/media/react-router.a87b7227.svg",
     "static/media/react.add74742.svg": "/ReactPortfolio/static/media/react.add74742.svg",
-    "static/media/slide1.763349f9.webp": "/ReactPortfolio/static/media/slide1.763349f9.webp",
+    "static/media/slide.ea991e81.webp": "/ReactPortfolio/static/media/slide.ea991e81.webp",
     "static/media/unity-technologies-logo.a41281f5.svg": "/ReactPortfolio/static/media/unity-technologies-logo.a41281f5.svg",
     "static/media/visual-studio-code-1.b8b1e001.svg": "/ReactPortfolio/static/media/visual-studio-code-1.b8b1e001.svg"
   },
@@ -42,6 +42,6 @@
     "static/js/runtime-main.97a608d1.js",
     "static/js/2.b85d382a.chunk.js",
     "static/css/main.4f965575.chunk.css",
-    "static/js/main.22d2e330.chunk.js"
+    "static/js/main.b7843f74.chunk.js"
   ]
 }
