@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ReactPortfolio/static/css/main.4f965575.chunk.css",
-    "main.js": "/ReactPortfolio/static/js/main.b7843f74.chunk.js",
-    "main.js.map": "/ReactPortfolio/static/js/main.b7843f74.chunk.js.map",
+    "main.js": "/ReactPortfolio/static/js/main.9485809d.chunk.js",
+    "main.js.map": "/ReactPortfolio/static/js/main.9485809d.chunk.js.map",
     "runtime-main.js": "/ReactPortfolio/static/js/runtime-main.97a608d1.js",
     "runtime-main.js.map": "/ReactPortfolio/static/js/runtime-main.97a608d1.js.map",
-    "static/js/2.b85d382a.chunk.js": "/ReactPortfolio/static/js/2.b85d382a.chunk.js",
-    "static/js/2.b85d382a.chunk.js.map": "/ReactPortfolio/static/js/2.b85d382a.chunk.js.map",
+    "static/js/2.9d0ece62.chunk.js": "/ReactPortfolio/static/js/2.9d0ece62.chunk.js",
+    "static/js/2.9d0ece62.chunk.js.map": "/ReactPortfolio/static/js/2.9d0ece62.chunk.js.map",
     "index.html": "/ReactPortfolio/index.html",
     "static/css/main.4f965575.chunk.css.map": "/ReactPortfolio/static/css/main.4f965575.chunk.css.map",
-    "static/js/2.b85d382a.chunk.js.LICENSE.txt": "/ReactPortfolio/static/js/2.b85d382a.chunk.js.LICENSE.txt",
+    "static/js/2.9d0ece62.chunk.js.LICENSE.txt": "/ReactPortfolio/static/js/2.9d0ece62.chunk.js.LICENSE.txt",
     "static/media/adobe-illustrator-cc.93c40bc3.svg": "/ReactPortfolio/static/media/adobe-illustrator-cc.93c40bc3.svg",
     "static/media/android.0feb8167.svg": "/ReactPortfolio/static/media/android.0feb8167.svg",
     "static/media/Contact.css": "/ReactPortfolio/static/media/background.f6814621.webp",
@@ -40,8 +40,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.97a608d1.js",
-    "static/js/2.b85d382a.chunk.js",
+    "static/js/2.9d0ece62.chunk.js",
     "static/css/main.4f965575.chunk.css",
-    "static/js/main.b7843f74.chunk.js"
+    "static/js/main.9485809d.chunk.js"
   ]
 }
