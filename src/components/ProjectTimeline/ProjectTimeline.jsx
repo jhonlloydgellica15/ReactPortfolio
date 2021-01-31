@@ -21,7 +21,7 @@ import "./ProjectTimeline.css";
 const ProjectTimeline = () => {
   return (
     <div id="projects">
-      <h1 className="pt-3 text-center font-details-b pb-3">PROJECTS</h1>;
+      <h1 className="pt-3 text-center font-details-b pb-3">PROJECTS</h1>
       <Timeline>
         <Events>
           <ImageEvent date="DECEMBER 2017" className="text-center" text="Potential Examination System" src={L_Potential} alt="Potential Examination System">
