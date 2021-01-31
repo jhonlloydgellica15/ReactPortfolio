@@ -1,10 +1,10 @@
 export const particlesOptions = {
   particles: {
     number: {
-      value: 20,
+      value: 60,
       density: {
         enable: true,
-        value_area: 1000,
+        value_area: 2000,
       },
     },
     color: {
@@ -25,9 +25,18 @@ export const particlesOptions = {
         height: 100,
       },
     },
-
+    opacity: {
+      value: 0.5,
+      random: false,
+      anim: {
+        enable: false,
+        speed: 1,
+        opacity_min: 0.1,
+        sync: false,
+      },
+    },
     size: {
-      value: 1,
+      value: 3,
       random: true,
       anim: {
         enable: false,
@@ -45,7 +54,7 @@ export const particlesOptions = {
     },
     move: {
       enable: true,
-      speed: 5,
+      speed: 6,
       direction: "none",
       random: false,
       straight: false,
@@ -80,7 +89,7 @@ export const particlesOptions = {
       },
       bubble: {
         distance: 400,
-        size: 5,
+        size: 10,
         duration: 2,
         opacity: 8,
         speed: 3,
