@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ReactPortfolio/static/css/main.4f965575.chunk.css",
-    "main.js": "/ReactPortfolio/static/js/main.0efbc211.chunk.js",
-    "main.js.map": "/ReactPortfolio/static/js/main.0efbc211.chunk.js.map",
+    "main.js": "/ReactPortfolio/static/js/main.22d2e330.chunk.js",
+    "main.js.map": "/ReactPortfolio/static/js/main.22d2e330.chunk.js.map",
     "runtime-main.js": "/ReactPortfolio/static/js/runtime-main.97a608d1.js",
     "runtime-main.js.map": "/ReactPortfolio/static/js/runtime-main.97a608d1.js.map",
     "static/js/2.b85d382a.chunk.js": "/ReactPortfolio/static/js/2.b85d382a.chunk.js",
@@ -20,7 +20,7 @@
     "static/media/easyar.afdc7a65.webp": "/ReactPortfolio/static/media/easyar.afdc7a65.webp",
     "static/media/git-icon.c60b7e5a.svg": "/ReactPortfolio/static/media/git-icon.c60b7e5a.svg",
     "static/media/github.740db6be.svg": "/ReactPortfolio/static/media/github.740db6be.svg",
-    "static/media/histaria.10599a81.webp": "/ReactPortfolio/static/media/histaria.10599a81.webp",
+    "static/media/histaria.c917bf46.webp": "/ReactPortfolio/static/media/histaria.c917bf46.webp",
     "static/media/html-5.821ba738.svg": "/ReactPortfolio/static/media/html-5.821ba738.svg",
     "static/media/javascript.ba40d6a9.svg": "/ReactPortfolio/static/media/javascript.ba40d6a9.svg",
     "static/media/logo.922ad8de.webp": "/ReactPortfolio/static/media/logo.922ad8de.webp",
@@ -28,13 +28,13 @@
     "static/media/mysql-5.f6cec086.svg": "/ReactPortfolio/static/media/mysql-5.f6cec086.svg",
     "static/media/photoshop-cc.b34779d4.svg": "/ReactPortfolio/static/media/photoshop-cc.b34779d4.svg",
     "static/media/php-1.7c41b199.svg": "/ReactPortfolio/static/media/php-1.7c41b199.svg",
-    "static/media/potential.5f0eeb96.webp": "/ReactPortfolio/static/media/potential.5f0eeb96.webp",
+    "static/media/potential.f4a959d6.webp": "/ReactPortfolio/static/media/potential.f4a959d6.webp",
     "static/media/profile.9fe7130e.webp": "/ReactPortfolio/static/media/profile.9fe7130e.webp",
     "static/media/python.e6d7dc73.svg": "/ReactPortfolio/static/media/python.e6d7dc73.svg",
     "static/media/react-bootstrap.534ba574.svg": "/ReactPortfolio/static/media/react-bootstrap.534ba574.svg",
     "static/media/react-router.a87b7227.svg": "/ReactPortfolio/static/media/react-router.a87b7227.svg",
     "static/media/react.add74742.svg": "/ReactPortfolio/static/media/react.add74742.svg",
-    "static/media/slide.3e3feb83.webp": "/ReactPortfolio/static/media/slide.3e3feb83.webp",
+    "static/media/slide1.763349f9.webp": "/ReactPortfolio/static/media/slide1.763349f9.webp",
     "static/media/unity-technologies-logo.a41281f5.svg": "/ReactPortfolio/static/media/unity-technologies-logo.a41281f5.svg",
     "static/media/visual-studio-code-1.b8b1e001.svg": "/ReactPortfolio/static/media/visual-studio-code-1.b8b1e001.svg"
   },
@@ -42,6 +42,6 @@
     "static/js/runtime-main.97a608d1.js",
     "static/js/2.b85d382a.chunk.js",
     "static/css/main.4f965575.chunk.css",
-    "static/js/main.0efbc211.chunk.js"
+    "static/js/main.22d2e330.chunk.js"
   ]
 }
