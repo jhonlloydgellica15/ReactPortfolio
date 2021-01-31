@@ -1,5 +1,5 @@
 import Carousel from "react-bootstrap/Carousel";
-import Slide1 from "../../assets/img/carousel/slide.webp";
+import Slide1 from "../../assets/img/carousel/slide1.webp";
 
 import "./MyCarousel.css";
 
