@@ -21,10 +21,10 @@ const About = () => {
             </Col>
             <Col xs={12} md={6}>
               <Row className=" align-items-start p-2 my-details rounded">
-                Hello there! I am <strong>&nbsp;Jhon Lloyd Gellica</strong>A passionate programmer and a Learner, born in the city of Davao Philippines. I am a Frontend Web Developer with the
-                following tech stacks Html:5, Css3, Javascript(es6), Bootstrap, PhP, ReactJs, MySql. In 2020, I successfully completed my Bachelor Degree, 'Bachelor of Science in Information
-                Technology' at Holy Cross of Davao College. <br /> I'm a Dedicated, Hardworking, Detail Oriented and Passionate person. Along with that, I also like building practice softwares or
-                applications to enhance my skills. I love learning about new technologies, what bugs or errors are they encountered and how can I use them to build a better software.
+                Hello there! I am <strong>&nbsp;Jhon Lloyd Gellica</strong>A passionate programmer and a Learner, born in the city of Davao Philippines. I am a Software and Frontend Web Developer with
+                the following tech stacks Html:5, Css3, Javascript(es6), Bootstrap, PhP, ReactJs, C# Winforms, MS-Sql, MySql. In 2020, I successfully completed my Bachelor Degree, 'Bachelor of Science
+                in Information Technology' at Holy Cross of Davao College. <br /> I'm a Dedicated, Hardworking, Detail Oriented and Passionate person. Along with that, I also like building practice
+                softwares or applications to enhance my skills. I love learning about new technologies, what bugs or errors are they encountered and how can I use them to build a better software.
                 <Col className="d-flex justify-content-center flex-wrap">
                   <div>
                     <a href="#contact">
