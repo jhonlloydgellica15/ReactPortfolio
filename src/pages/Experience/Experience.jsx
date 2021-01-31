@@ -2,7 +2,7 @@ import Jumbotron from "react-bootstrap/Jumbotron";
 import Card from "react-bootstrap/Card";
 import Container from "react-bootstrap/Container";
 import Tilt from "react-tilt";
-import Logo from "../../assets/img/experience/logo.webp";
+import Logo from "../../assets/img/experience/logo.jpg";
 import "./Experience.css";
 
 const Experience = () => {

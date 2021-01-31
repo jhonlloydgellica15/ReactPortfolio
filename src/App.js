@@ -5,7 +5,7 @@ import MyCarousel from "./components/Carousel/MyCarousel";
 import MyNavbar from "./components/NavBar/Navbar";
 import TitleMessage from "./components/TitleMessage/TitleMessage";
 import Fade from "react-reveal/Fade";
-import BgImg from "./assets/img/parallax/background.webp";
+import BgImg from "./assets/img/parallax/background.jpg";
 import Slide from "react-reveal/Slide";
 import Container from "react-bootstrap/Container";
 import { Parallax } from "react-parallax";

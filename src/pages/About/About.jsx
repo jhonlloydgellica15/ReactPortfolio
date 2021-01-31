@@ -3,7 +3,7 @@ import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import Image from "react-bootstrap/Image";
 import Button from "react-bootstrap/Button";
-import Profile from "../../assets/img/profile/profile.webp";
+import Profile from "../../assets/img/profile/profile.jpg";
 import "./About.css";
 
 const About = () => {

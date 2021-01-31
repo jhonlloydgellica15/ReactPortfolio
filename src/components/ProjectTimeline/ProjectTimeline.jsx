@@ -1,18 +1,18 @@
 import { Timeline, Events, UrlButton, ImageEvent } from "@merc/react-timeline";
 
-import L_Histaria from "../../assets/img/projects/histaria.webp";
-import L_Potential from "../../assets/img/projects/potential.webp";
+import L_Histaria from "../../assets/img/projects/histaria.jpg";
+import L_Potential from "../../assets/img/projects/potential.jpg";
 
 import Accordion from "react-bootstrap/Accordion";
 import Card from "react-bootstrap/Card";
 import Image from "react-bootstrap/Image";
 
-import L_AR from "../../assets/img/skills/easyar.webp";
+import L_AR from "../../assets/img/skills/easyar.jpg";
 import L_UNITY from "../../assets/img/skills/unity-technologies-logo.svg";
 import L_CSHARP from "../../assets/img/skills/c--4.svg";
 import L_ANDROID from "../../assets/img/skills/android.svg";
 import L_SQL from "../../assets/img/skills/mssql.svg";
-import L_BUNIFU from "../../assets/img/skills/bunifu.webp";
+import L_BUNIFU from "../../assets/img/skills/bunifu.jpg";
 import L_PS from "../../assets/img/skills/photoshop-cc.svg";
 import L_ILLUSTRATOR from "../../assets/img/skills/adobe-illustrator-cc.svg";
 
